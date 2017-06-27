@@ -51,7 +51,7 @@
     "rollupify": "^0.3.9",
     "tslint": "^5.1.0",
     "tslint-no-circular-imports": "^0.1.0",
-    "typescript": "^2.3.1",
+    "typescript": "^2.4.1",
     "wallaby-webpack": "0.0.38",
     "watchify": "^3.9.0",
     "webpack": "^2.4.1",
