@@ -62,7 +62,7 @@
     "@types/lodash.assign": "^4.2.2",
     "@types/lodash.mapvalues": "^4.6.2",
     "@types/lodash.some": "^4.6.2",
-    "angular": ">=1.5.0",
+    "angular": ">=1.6.5",
     "lodash.assign": "^4.2.0",
     "lodash.mapvalues": "^4.6.0",
     "lodash.some": "^4.6.0"
