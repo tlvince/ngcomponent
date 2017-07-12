@@ -1,4 +1,6 @@
-import {assign, mapValues, some} from 'lodash'
+import assign from 'lodash-es/assign'
+import mapValues from 'lodash-es/mapValues'
+import some from 'lodash-es/some'
 
 abstract class NgComponent<Props, State> {
 

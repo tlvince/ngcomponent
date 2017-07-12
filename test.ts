@@ -1,5 +1,5 @@
 import { bootstrap, element, IControllerConstructor, Injectable, IScope, module } from 'angular'
-import { assign } from 'lodash'
+import assign from 'lodash-es/assign'
 import { $compile, $rootScope } from 'ngimport'
 import NgComponent from './'
 
